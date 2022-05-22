@@ -2373,207 +2373,207 @@
         {
           "LocalizationKey": "PrivacyPolicy",
           "Reference": "Privacy Policy",
-          "Target": ""
+          "Target": "حریم خصوصی"
         },
         {
           "LocalizationKey": "TermsAndConditions",
           "Reference": "Terms & Conditions",
-          "Target": ""
+          "Target": "شرایط استفاده"
         },
         {
           "LocalizationKey": "WouldLikeToReceiveMarketingMaterials",
           "Reference": "I would like to receive marketing materials like product deals & special offers.",
-          "Target": ""
+          "Target": "تمایل دارم موارد بازاریابی معرفی محصول و پیشنهاد ویژه را دریافت کنم."
         },
         {
           "LocalizationKey": "JoinOurMarketingNewsletter",
           "Reference": "Join our marketing newsletter",
-          "Target": ""
+          "Target": "پیوستن به خبر نامه"
         },
         {
           "LocalizationKey": "CommunityPrivacyPolicyConfirmation",
           "Reference": "I agree to the Terms & Conditions and <a class=\"text-white fw-6 text-decoration-underline opacity-50\" href=\"https://commercial.abp.io/Privacy\">Privacy Policy</a>.",
-          "Target": ""
+          "Target": "من شرایط، قوانین و <a class=\"text-white fw-6 text-decoration-underline opacity-50\" href=\"https://commercial.abp.io/Privacy\">سیاست های حریم خصوصی</a> را می پذیرم."
         },
         {
           "LocalizationKey": "WouldLikeToReceiveNotification",
           "Reference": "I would like to receive the latest news from abp.io websites.",
-          "Target": ""
+          "Target": "من تمایل دارم آخرین اخبار وب سایت abp.io برای من ارسال گردد."
         },
         {
           "LocalizationKey": "CommercialNewsletterConfirmationMessage",
           "Reference": "I agree to the <a class=\"text-white fw-6 text-decoration-underline opacity-50\" href=\"https://commercial.abp.io/TermsConditions\">Terms & Conditions</a> and <a  class=\"text-white fw-6 text-decoration-underline opacity-50\" href=\"https://commercial.abp.io/Privacy\">Privacy Policy</a>.",
-          "Target": ""
+          "Target": "من <a class=\"text-white fw-6 text-decoration-underline opacity-50\" href=\"https://commercial.abp.io/TermsConditions\">قوانین و شرایط استفاده</a> و همچنین <a  class=\"text-white fw-6 text-decoration-underline opacity-50\" href=\"https://commercial.abp.io/Privacy\">سیاست های حریم خصوصی</a> را می پذیرم."
         },
         {
           "LocalizationKey": "FreeDDDEBook",
           "Reference": "Free DDD E-Book",
-          "Target": ""
+          "Target": "کتاب الکترونیک رایگان DDD"
         },
         {
           "LocalizationKey": "AdditionalServices",
           "Reference": "Additional Services",
-          "Target": ""
+          "Target": "خدمات اضافی"
         },
         {
           "LocalizationKey": "Learn",
           "Reference": "Learn",
-          "Target": ""
+          "Target": "آموختن"
         },
         {
           "LocalizationKey": "AccountOverview",
           "Reference": "Account Overview",
-          "Target": ""
+          "Target": "خلاصه حساب کاربری"
         },
         {
           "LocalizationKey": "MyOrganizations",
           "Reference": "My Organizations",
-          "Target": ""
+          "Target": "سازمان های من"
         },
         {
           "LocalizationKey": "MySupportQuestions",
           "Reference": "My Support Questions",
-          "Target": ""
+          "Target": "سوالات پشتیبانی من"
         },
         {
           "LocalizationKey": "MyProfile",
           "Reference": "My Profile",
-          "Target": ""
+          "Target": "نمایه من"
         },
         {
           "LocalizationKey": "Logout",
           "Reference": "Logout",
-          "Target": ""
+          "Target": "خروج"
         },
         {
           "LocalizationKey": "Home",
           "Reference": "Home",
-          "Target": ""
+          "Target": "خانه"
         },
         {
           "LocalizationKey": "Posts",
           "Reference": "Posts",
-          "Target": ""
+          "Target": "پست ها"
         },
         {
           "LocalizationKey": "JoinTheABPCommunity",
           "Reference": "Join the ABP Community",
-          "Target": ""
+          "Target": "به انجمن ABP بپیوندید"
         },
         {
           "LocalizationKey": "SubmitYourPost",
           "Reference": "Submit Your Post",
-          "Target": ""
+          "Target": "ثبت پست شما"
         },
         {
           "LocalizationKey": "Modules",
           "Reference": "Modules",
-          "Target": ""
+          "Target": "ماژول ها"
         },
         {
           "LocalizationKey": "Tools",
           "Reference": "Tools",
-          "Target": ""
+          "Target": "ابزار"
         },
         {
           "LocalizationKey": "Pricing",
           "Reference": "Pricing",
-          "Target": ""
+          "Target": "قیمت گذاری"
         },
         {
           "LocalizationKey": "ChangeLogs",
           "Reference": "Change Logs",
-          "Target": ""
+          "Target": "تاریخچه تغییرات"
         },
         {
           "LocalizationKey": "SubscribeToNewsletter",
           "Reference": "Subscribe to the Newsletter",
-          "Target": ""
+          "Target": "عضویت در خبرنامه"
         },
         {
           "LocalizationKey": "SubscribeToNewsletterDescription",
           "Reference": "Get information about happenings in ABP like new releases, free sources, posts, and more.",
-          "Target": ""
+          "Target": "دریافت اطلاعات در رابطه با اتفاقات ABP مانند انتشارها، کدهای رایگان، پست ها و غیره."
         },
         {
           "LocalizationKey": "EmailAddress",
           "Reference": "E-mail Address",
-          "Target": ""
+          "Target": "آدرس ایمیل"
         },
         {
           "LocalizationKey": "Subscribe",
           "Reference": "Subscribe",
-          "Target": ""
+          "Target": "عضویت"
         },
         {
           "LocalizationKey": "WelcomeToABP",
           "Reference": "Welcome to the ABP",
-          "Target": ""
+          "Target": "به ABP خوش آمدید"
         },
         {
           "LocalizationKey": "EULA",
           "Reference": "EULA",
-          "Target": ""
+          "Target": "EULA"
         },
         {
           "LocalizationKey": "ABPCommercialIntroductionMessage",
           "Reference": "Pre-built application modules, advanced startup templates, rapid application development tooling, professional UI themes and premium support.",
-          "Target": ""
+          "Target": "ماژول ها، بسته شروع پیشرفته، ابزار توسعه سریع، قالب حرفه ای رابط کاربری و پشتیبانی اختصاصی"
         },
         {
           "LocalizationKey": "MasteringAbpFrameworkEBook",
           "Reference": "Mastering ABP Framework",
-          "Target": ""
+          "Target": "تسلط بر فریم ورک ABP"
         },
         {
           "LocalizationKey": "MasteringTheABPFrameworkExplanation",
           "Reference": "Written by the creator of the ABP Framework, this book will help you gain a complete understanding of the framework and modern web application development techniques.",
-          "Target": ""
+          "Target": "نوشته شده توسط سازنده فریم ورک ABP، این کتاب به شما کمک میکند تا درک کاملی از چارچوب و تکنیک های توسعه برنامه های مدرن بدست آورید."
         },
         {
           "LocalizationKey": "Speakers",
           "Reference": "Speakers",
-          "Target": ""
+          "Target": "گویندگان"
         },
         {
           "LocalizationKey": "PreviousEvents",
           "Reference": "Previous Events",
-          "Target": ""
+          "Target": "ایونت قبلی"
         },
         {
           "LocalizationKey": "WatchTheEvent",
           "Reference": "Watch the Event",
-          "Target": ""
+          "Target": "مشاهده ایونت"
         },
         {
           "LocalizationKey": "RegisterNow",
           "Reference": "Register Now",
-          "Target": ""
+          "Target": "عضو شوید"
         },
         {
           "LocalizationKey": "ThereIsNoEvent",
           "Reference": "There is no event.",
-          "Target": ""
+          "Target": "ایونتی یافت نشد"
         },
         {
           "LocalizationKey": "Events",
           "Reference": "Events",
-          "Target": ""
+          "Target": "ایونت ها"
         },
         {
           "LocalizationKey": "Volo.AbpIo.Domain:080000",
           "Reference": "There is already a purchase item named \"{Name}\"",
-          "Target": ""
+          "Target": "در حال حاضر یک مورد خرید با نام \"{Name}\" وجود دارد"
         },
         {
           "LocalizationKey": "MasteringAbpFrameworkBook",
           "Reference": "Book: Mastering ABP Framework",
-          "Target": ""
+          "Target": "کتاب: تسلط بر چارچوب ABP"
         },
         {
           "LocalizationKey": "ABPIO-CommonPreferenceDefinition",
           "Reference": "Get latest news about ABP Platform like new posts, events and more.",
-          "Target": ""
+          "Target": "دریافت آخرین اخبار درباره زیرساخت ABP مانند پست های جدید، ایونت ها و غیره"
         }
       ]
     },
@@ -2583,422 +2583,422 @@
         {
           "LocalizationKey": "OrganizationManagement",
           "Reference": "Organization Management",
-          "Target": ""
+          "Target": "مدیریت سازمان"
         },
         {
           "LocalizationKey": "OrganizationList",
           "Reference": "Organization list",
-          "Target": ""
+          "Target": "لیست سازمان ها"
         },
         {
           "LocalizationKey": "Volo.AbpIo.Commercial:010003",
           "Reference": "You are not the owner of this organization!",
-          "Target": ""
+          "Target": "شما مالک این سازمان نیستید!"
         },
         {
           "LocalizationKey": "OrganizationNotFoundMessage",
           "Reference": "No organization found!",
-          "Target": ""
+          "Target": "هیچ سازمانی یافت نشد!"
         },
         {
           "LocalizationKey": "DeveloperCount",
           "Reference": "Allocated / total developers",
-          "Target": ""
+          "Target": "اختصاص داده شده / تعداد توسعه دهندگان"
         },
         {
           "LocalizationKey": "QuestionCount",
           "Reference": "Remaining / total questions",
-          "Target": ""
+          "Target": "باقیمانده / تعداد سوالات"
         },
         {
           "LocalizationKey": "Unlimited",
           "Reference": "Unlimited",
-          "Target": ""
+          "Target": "نامحدود"
         },
         {
           "LocalizationKey": "Owners",
           "Reference": "Owners",
-          "Target": ""
+          "Target": "مالکان"
         },
         {
           "LocalizationKey": "Owner",
           "Reference": "Owner",
-          "Target": ""
+          "Target": "مالک"
         },
         {
           "LocalizationKey": "AddMember",
           "Reference": "Add member",
-          "Target": ""
+          "Target": "افزودن عضو"
         },
         {
           "LocalizationKey": "AddNewOwner",
           "Reference": "Add New Owner",
-          "Target": ""
+          "Target": "افزودن مالک جدید"
         },
         {
           "LocalizationKey": "AddNewDeveloper",
           "Reference": "Add New Developer",
-          "Target": ""
+          "Target": "افزودن توسعه دهنده جدید"
         },
         {
           "LocalizationKey": "UserName",
           "Reference": "Username",
-          "Target": ""
+          "Target": "نام کاربری"
         },
         {
           "LocalizationKey": "Name",
           "Reference": "Name",
-          "Target": ""
+          "Target": "نام"
         },
         {
           "LocalizationKey": "EmailAddress",
           "Reference": "Email address",
-          "Target": ""
+          "Target": "آدرس ایمیل"
         },
         {
           "LocalizationKey": "Developers",
           "Reference": "Developers",
-          "Target": ""
+          "Target": "توسعه دهندگان"
         },
         {
           "LocalizationKey": "LicenseType",
           "Reference": "License type",
-          "Target": ""
+          "Target": "نوع لایسنس"
         },
         {
           "LocalizationKey": "Manage",
           "Reference": "Manage",
-          "Target": ""
+          "Target": "مدیریت"
         },
         {
           "LocalizationKey": "SetDefault",
           "Reference": "Set as default",
-          "Target": ""
+          "Target": "تنظیم به عنوان پیش فرض"
         },
         {
           "LocalizationKey": "DefaultOrganization",
           "Reference": "Default",
-          "Target": ""
+          "Target": "پیش فرض"
         },
         {
           "LocalizationKey": "StartDate",
           "Reference": "Start date",
-          "Target": ""
+          "Target": "تاریه شروع"
         },
         {
           "LocalizationKey": "EndDate",
           "Reference": "End date",
-          "Target": ""
+          "Target": "تاریخ پایان"
         },
         {
           "LocalizationKey": "Modules",
           "Reference": "Modules",
-          "Target": ""
+          "Target": "ماژول ها"
         },
         {
           "LocalizationKey": "LicenseExtendMessage",
           "Reference": "Your license end date is extended to {0}",
-          "Target": ""
+          "Target": "تاریخ اتمام لایسنس شما تا {0} تمدید شد"
         },
         {
           "LocalizationKey": "LicenseUpgradeMessage",
           "Reference": "Your license is upgraded to {0}",
-          "Target": ""
+          "Target": "لایسنس شما به {0} ارتقاع پیدا کرد"
         },
         {
           "LocalizationKey": "LicenseExtendAdnUpgradeMessage",
           "Reference": "Your license has been extended until {0} and your license plan is upgraded to {1}.",
-          "Target": ""
+          "Target": "لایسنس شما تا {0} تمدید شد و به {1} ارتقاع پیدا کرد"
         },
         {
           "LocalizationKey": "LicenseAddDeveloperMessage",
           "Reference": "{0} developers added to your license",
-          "Target": ""
+          "Target": "{0} توسعه دهنده اضافه شده به لایسنس"
         },
         {
           "LocalizationKey": "Volo.AbpIo.Commercial:010004",
           "Reference": "Can not find the specified user! The user must have already been registered.",
-          "Target": ""
+          "Target": "کاربر مشخص یافت نشد! کاربر باید عضو شده باشد."
         },
         {
           "LocalizationKey": "MyOrganizations",
           "Reference": "My organizations",
-          "Target": ""
+          "Target": "سازمان های من"
         },
         {
           "LocalizationKey": "ApiKey",
           "Reference": "API key",
-          "Target": ""
+          "Target": "کلید API"
         },
         {
           "LocalizationKey": "UserNameNotFound",
           "Reference": "There is no user with the username {0}",
-          "Target": ""
+          "Target": "هیج کاربری پیدا نشد با {0}"
         },
         {
           "LocalizationKey": "SuccessfullyAddedToNewsletter",
           "Reference": "Thank you for subscribing to our newsletter!",
-          "Target": ""
+          "Target": "ممنون برای عضویت در خبر نامه"
         },
         {
           "LocalizationKey": "MyProfile",
           "Reference": "My profile",
-          "Target": ""
+          "Target": "نمایه من"
         },
         {
           "LocalizationKey": "EmailNotValid",
           "Reference": "Please enter a valid email address.",
-          "Target": ""
+          "Target": "لطفا یک ایمیل معتبر وارد نمایید"
         },
         {
           "LocalizationKey": "JoinOurMarketingNewsletter",
           "Reference": "Join our marketing newsletter",
-          "Target": ""
+          "Target": "به خبر نامه بازاریابی ما بپیوندید"
         },
         {
           "LocalizationKey": "WouldLikeToReceiveMarketingMaterials",
           "Reference": "I would like to receive marketing news like product deals & special offers.",
-          "Target": ""
+          "Target": "تمایل دارم خبر های بازاریابی مانند معرفی محصول و پیشنهادات ویژه را دریافت کنم."
         },
         {
           "LocalizationKey": "StartUsingYourLicenseNow",
           "Reference": "Start using your license now!",
-          "Target": ""
+          "Target": "حالا با لایسنس خود شروع کنید!"
         },
         {
           "LocalizationKey": "WelcomePage",
           "Reference": "Welcome Page",
-          "Target": ""
+          "Target": "صفحه خوش آمد گویی"
         },
         {
           "LocalizationKey": "UnsubscriptionExpireEmail",
           "Reference": "Unsubscribe from license expiration date reminder emails",
-          "Target": ""
+          "Target": "لغو عضویت در دریافت ایمیل یادآور انقضای لایسنس"
         },
         {
           "LocalizationKey": "UnsubscribeLicenseExpireEmailReminderMessage",
           "Reference": "This email subscription only contains reminders of your license expiration date.",
-          "Target": ""
+          "Target": "عضویت این ایمیل فقط شامل یادآور انقضای لایسنس شما می باشد."
         },
         {
           "LocalizationKey": "UnsubscribeFromLicenseExpireEmails",
           "Reference": "If you don't want to receive the emails about your license expiration date, you can unsubscribe at any time you want.",
-          "Target": ""
+          "Target": "اگر تمایل ندارید که ایمیل های یادآوری انقضای لایسنس را دریافت کنید، شما می توانید هر زمان به لغو عضویت اقدام کنید."
         },
         {
           "LocalizationKey": "Unsubscribe",
           "Reference": "Unsubscribe",
-          "Target": ""
+          "Target": "لغو عضویت"
         },
         {
           "LocalizationKey": "NotOrganizationMember",
           "Reference": "You are not a member of any organization.",
-          "Target": ""
+          "Target": "شما عضو هیچ سازمانی نیستید."
         },
         {
           "LocalizationKey": "UnsubscribeLicenseExpirationEmailSuccessTitle",
           "Reference": "Successfully unsubscribed",
-          "Target": ""
+          "Target": "لغو عضویت با موفقیت انجام شد"
         },
         {
           "LocalizationKey": "UnsubscribeLicenseExpirationEmailSuccessMessage",
           "Reference": "You will not receive license expiration date reminder emails anymore.",
-          "Target": ""
+          "Target": "شما دیگر ایمیل های انقضای لایسنس را دریافت نخواهید کرد."
         },
         {
           "LocalizationKey": "IndexPageHeroSection",
           "Reference": "<span class=\"first-line\">A complete</span><span class=\"second-line\"> web development platform</span><span class=\"third-line\">built-on <img src=\"{0}\" width=\"110\" class=\"ml-1\" /> framework</span>",
-          "Target": ""
+          "Target": "<span class=\"first-line\">یک پلتفرم</span><span class=\"second-line\"> توسعه وب کامل</span><span class=\"third-line\">ساخته شده در قابل <img src=\"{0}\" width=\"110\" class=\"ml-1\" /> یک چارچوب</span>"
         },
         {
           "LocalizationKey": "AbpCommercialShortDescription",
           "Reference": "ABP Commercial provides pre-built application modules, rapid application development tooling, professional UI themes, premium support and more.",
-          "Target": ""
+          "Target": "نسخه تجاری ABP ماژول های از پیش ساخته، ابزار توسعه سریع، قالب رابط کاربری حرفه ای، پشتیبانی اختصاصی و غیره را فراهم می کند."
         },
         {
           "LocalizationKey": "LiveDemo",
           "Reference": "Live Demo",
-          "Target": ""
+          "Target": "دمو زنده"
         },
         {
           "LocalizationKey": "GetLicence",
           "Reference": "Get a Licence",
-          "Target": ""
+          "Target": "دریافت لایسنس"
         },
         {
           "LocalizationKey": "Application",
           "Reference": "Application",
-          "Target": ""
+          "Target": "برنامه"
         },
         {
           "LocalizationKey": "StartupTemplates",
           "Reference": "Startup Templates",
-          "Target": ""
+          "Target": "قالب راه اندازی"
         },
         {
           "LocalizationKey": "Startup",
           "Reference": "Startup",
-          "Target": ""
+          "Target": "راه انداز"
         },
         {
           "LocalizationKey": "Templates",
           "Reference": "Templates",
-          "Target": ""
+          "Target": "قالب ها"
         },
         {
           "LocalizationKey": "Developer",
           "Reference": "Developer",
-          "Target": ""
+          "Target": "توسعه دهنده"
         },
         {
           "LocalizationKey": "Tools",
           "Reference": "Tools",
-          "Target": ""
+          "Target": "ابزار"
         },
         {
           "LocalizationKey": "Premium",
           "Reference": "Premium",
-          "Target": ""
+          "Target": "اختصاصی"
         },
         {
           "LocalizationKey": "PremiumSupport",
           "Reference": "Premium Support",
-          "Target": ""
+          "Target": "پشتیبانی اختصاصی"
         },
         {
           "LocalizationKey": "PremiumForumSupport",
           "Reference": "Premium Forum Support",
-          "Target": ""
+          "Target": "انجمن پشتیبانی اختصاصی"
         },
         {
           "LocalizationKey": "UI",
           "Reference": "UI",
-          "Target": ""
+          "Target": "UI"
         },
         {
           "LocalizationKey": "Themes",
           "Reference": "Themes",
-          "Target": ""
+          "Target": "قالب های گرافیکی"
         },
         {
           "LocalizationKey": "JoinOurNewsletter",
           "Reference": "Join Our Newsletter",
-          "Target": ""
+          "Target": "به خبر نامه ما بپیوندید"
         },
         {
           "LocalizationKey": "Send",
           "Reference": "Send",
-          "Target": ""
+          "Target": "ارسال"
         },
         {
           "LocalizationKey": "WhatIsABPFramework",
           "Reference": "WHAT IS THE ABP FRAMEWORK?",
-          "Target": ""
+          "Target": "فریم ورک ABP چیست؟"
         },
         {
           "LocalizationKey": "OpenSourceBaseFramework",
           "Reference": "Open Source Base Framework",
-          "Target": ""
+          "Target": "فریم ورک متن باز"
         },
         {
           "LocalizationKey": "ABPFrameworkExplanation",
           "Reference": "<p class=\"lead\">ABP Commercial is based on the ABP Framework, an open source and community driven web application framework for ASP.NET Core.</p><p>ABP Framework provides an excellent infrastructure to write maintainable, extensible and testable code with the best practices.</p><p>Built on and integrated to popular tools you already know. Low learning curve, easy adaptation, comfortable development.</p>",
-          "Target": ""
+          "Target": "<p class=\"lead\">نسخه تجاری ABP بر پایه فریم ورک ABP، متن باز و مبتنی بر اپلیکیشن فریم ورک ASP.NET Core می باشد.</p><p>فریم ورک ABP یک زیر ساخت عالی برای نوشتن کد های قابل نگهداری، توسعه پذیر و قابل تست با بهترین الگوها را فراهم کرده است.</p><p>>ساخته شده و یکپارچه شده با ابزار هایی که قبلا می شناختید. یادگیری ساده، سازگاری آسان و توسعه راحت.</p>"
         },
         {
           "LocalizationKey": "Modular",
           "Reference": "Modular",
-          "Target": ""
+          "Target": "ماژول محور"
         },
         {
           "LocalizationKey": "MicroserviceCompatible",
           "Reference": "Microservice compatible",
-          "Target": ""
+          "Target": "سازگار با مایکروسرویس"
         },
         {
           "LocalizationKey": "DomainDrivenDesignInfrastructure",
           "Reference": "Domain Driven Design Infrastructure",
-          "Target": ""
+          "Target": "زیر ساخت توسعه مبتنی بر دامنه"
         },
         {
           "LocalizationKey": "MultiTenancy",
           "Reference": "Multi-Tenancy",
-          "Target": ""
+          "Target": "چند اجاره ای"
         },
         {
           "LocalizationKey": "DistributedMessaging",
           "Reference": "Distributed Messaging",
-          "Target": ""
+          "Target": "پیام های توزیع شده"
         },
         {
           "LocalizationKey": "DynamicProxying",
           "Reference": "Dynamic Proxying",
-          "Target": ""
+          "Target": "پروکسی پویا"
         },
         {
           "LocalizationKey": "BackgroundJobs",
           "Reference": "Background Jobs",
-          "Target": ""
+          "Target": "جاب های پس زمینه"
         },
         {
           "LocalizationKey": "AuditLogging",
           "Reference": "Audit Logging",
-          "Target": ""
+          "Target": "حسابرسی تاریخچه"
         },
         {
           "LocalizationKey": "BLOBStoring",
           "Reference": "BLOB Storing",
-          "Target": ""
+          "Target": "ذخیره سازی BLOB"
         },
         {
           "LocalizationKey": "BundlingMinification",
           "Reference": "Bundling & Minification",
-          "Target": ""
+          "Target": "بسته بندی و کم حجم سازی"
         },
         {
           "LocalizationKey": "AdvancedLocalization",
           "Reference": "Advanced Localization",
-          "Target": ""
+          "Target": "بومی سازی پیشرفته"
         },
         {
           "LocalizationKey": "ManyMore",
           "Reference": "Many more",
-          "Target": ""
+          "Target": "خیلی بیشتر"
         },
         {
           "LocalizationKey": "ExploreTheABPFramework",
           "Reference": "Explore the ABP Framework",
-          "Target": ""
+          "Target": "کاوش کردن در چارچوب ABP"
         },
         {
           "LocalizationKey": "WhyUseTheABPCommercial",
           "Reference": "Why Use The ABP Commercial?",
-          "Target": ""
+          "Target": "چرا از نسخه تجاری استفاده کنیم؟"
         },
         {
           "LocalizationKey": "WhyUseTheABPCommercialExplanation",
           "Reference": "<p class=\"lead mt-5\">Building enterprise-grade web applications can be complex and time-consuming.</p><p>ABP Commercial offers the perfect base infrastructure necessary for all the modern enterprise-grade ASP.NET Core based solutions. Right from the design to deployment, the entire development cycle is empowered by the ABP's built-in features & modules.</p>",
-          "Target": ""
+          "Target": "<p class=\"lead mt-5\">ساخت برنامه های وب سازمانی می تواند پیچیده و زمان بر باشد.</p><p>نسخه تجاری ABP یک زیرساخت پایه ای کامل و هرآنچه یک اپلیکیشن سازمانی نیاز دارد، ارائه می دهد. از طراحی تا توسعه و چرخه توسعه از ماژول ها و ویژگی های داخلی ABP قدرت گرفته است.</p>"
         },
         {
           "LocalizationKey": "StartupTemplatesShortDescription",
           "Reference": "Startup templates make you jump-start your project in a few seconds.",
-          "Target": ""
+          "Target": "قالب های راه انداز باعث می شود پروژه خودتان را در چند ثانیه شروع کنید."
         },
         {
           "LocalizationKey": "UIFrameworksOptions",
           "Reference": "UI frameworks options;",
-          "Target": ""
+          "Target": "قابلیت های فریم ورک رابط کاربری"
         },
         {
           "LocalizationKey": "DatabaseProviderOptions",
           "Reference": "Database provider options;",
-          "Target": ""
+          "Target": "قابلیت های فراهم کننده دیتابیس"
         },
         {
           "LocalizationKey": "PreBuiltApplicationModules",
           "Reference": "Pre-Built Application Modules",
-          "Target": ""
+          "Target": "ماژول های کاربردی از پیش ساخته شده"
         },
         {
           "LocalizationKey": "PreBuiltApplicationModulesShortDescription",
