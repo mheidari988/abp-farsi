@@ -3003,312 +3003,312 @@
         {
           "LocalizationKey": "PreBuiltApplicationModulesShortDescription",
           "Reference": "Most common application requirements are already developed for you as reusable modules.",
-          "Target": ""
+          "Target": "اکثر نیازمندهایی معمولی برنامه از قبل برای شما به عنوان ماژول‌های قابل استفاده مجدد، توسعه داده شده است."
         },
         {
           "LocalizationKey": "Account",
           "Reference": "Account",
-          "Target": ""
+          "Target": "حساب"
         },
         {
           "LocalizationKey": "Blogging",
           "Reference": "Blogging",
-          "Target": ""
+          "Target": "بلاگ نویسی"
         },
         {
           "LocalizationKey": "Identity",
           "Reference": "Identity",
-          "Target": ""
+          "Target": "Identity"
         },
         {
           "LocalizationKey": "IdentityServer",
           "Reference": "Identity Server",
-          "Target": ""
+          "Target": "Identity Server"
         },
         {
           "LocalizationKey": "Saas",
           "Reference": "Saas",
-          "Target": ""
+          "Target": "Saas"
         },
         {
           "LocalizationKey": "LanguageManagement",
           "Reference": "Language Management",
-          "Target": ""
+          "Target": "مدیریت زبان‌ها"
         },
         {
           "LocalizationKey": "TextTemplateManagement",
           "Reference": "Text Template Management",
-          "Target": ""
+          "Target": "مدیرت قالب متن"
         },
         {
           "LocalizationKey": "See All Modules",
           "Reference": "SeeAllModules",
-          "Target": ""
+          "Target": "دیدن تمامی ماژول‌ها"
         },
         {
           "LocalizationKey": "ABPSuite",
           "Reference": "ABP Suite",
-          "Target": ""
+          "Target": "ABP Suite"
         },
         {
           "LocalizationKey": "AbpSuiteShortDescription",
           "Reference": "ABP Suite is a complementary tool to ABP Commercial.",
-          "Target": ""
+          "Target": "ABP Suite یک ابزار تکمیلی برای نسخه تجاری ABP است."
         },
         {
           "LocalizationKey": "AbpSuiteExplanation",
           "Reference": "It allows you to build web pages in a matter of minutes. It's a .NET Core Global tool which can be installed from the command line. It can create a new ABP solution, generate CRUD pages from the database to the front-end.",
-          "Target": ""
+          "Target": "این به شما امکان ساخت صفحات وب را در چند دقیقه می دهد. این ابزار عمومی .NET Core هست که می توانید از خط فرمان نصب شود . م می تواند یک سولوشن ABP بسازد و صفحات CRUD را از پایگاه داده برای front-end بسازد."
         },
         {
           "LocalizationKey": "Details",
           "Reference": "Details",
-          "Target": ""
+          "Target": "جزئیات"
         },
         {
           "LocalizationKey": "LeptonTheme",
           "Reference": "Lepton Theme",
-          "Target": ""
+          "Target": "Lepton قالب"
         },
         {
           "LocalizationKey": "ProfessionalModernUIThemes",
           "Reference": "Professional, modern UI themes",
-          "Target": ""
+          "Target": "تم‌های حرفه‌ای و مدرن UI"
         },
         {
           "LocalizationKey": "LeptonThemeExplanation",
           "Reference": "Lepton provides a gamut of Bootstrap admin themes that serve as a solid foundation for any project requiring admin dashboard.",
-          "Target": ""
+          "Target": "Lepton مجموعه از قالب‌های مدیریت گستره Bootstrap هستند که می تواند به عنوان پایه و اساس هر پروژه ای که نیاز به داشبورد مدیریت دارد ، استفاده شود. "
         },
         {
           "LocalizationKey": "DefaultTheme",
           "Reference": "Default Theme",
-          "Target": ""
+          "Target": "قالب پیش فرض"
         },
         {
           "LocalizationKey": "MaterialTheme",
           "Reference": "Material Theme",
-          "Target": ""
+          "Target": "فالب Material"
         },
         {
           "LocalizationKey": "Default2Theme",
           "Reference": "Default 2 Theme",
-          "Target": ""
+          "Target": "فالب پیش فرض 2"
         },
         {
           "LocalizationKey": "DarkTheme",
           "Reference": "Dark Theme",
-          "Target": ""
+          "Target": "قالب تاریک"
         },
         {
           "LocalizationKey": "DarkBlueTheme",
           "Reference": "Dark Blue Theme",
-          "Target": ""
+          "Target": "قالب آبی تیره"
         },
         {
           "LocalizationKey": "LightTheme",
           "Reference": "Light Theme",
-          "Target": ""
+          "Target": "قالب روشن"
         },
         {
           "LocalizationKey": "ProudToWorkWith",
           "Reference": "Proud to Work With",
-          "Target": ""
+          "Target": "افتخار همکاری با"
         },
         {
           "LocalizationKey": "OurConsumers",
           "Reference": "Thousands of enterprises and developers over 70 countries worldwide rely on ABP Commercial.",
-          "Target": ""
+          "Target": "هزاران مجموعه و توسعه‌دهنده در بیش از 70 کشور از ABP Commercial استفاده می کنند."
         },
         {
           "LocalizationKey": "JoinOurConsumers",
           "Reference": "Join them and build amazing products fast.",
-          "Target": ""
+          "Target": "به آنها بپیوندید و تند محصولات شگفت انگیزی بسازید. "
         },
         {
           "LocalizationKey": "AdditionalServicesExplanation",
           "Reference": "Do you need additional or custom services?  <strong>We and our partners can provide;</strong>",
-          "Target": ""
+          "Target": "آیا به سرویس‌های اضافه یا سفارشی نیاز دارید؟<strong>ما و همکارانمان می توانیم به شما کمک کنیم؛</strong> "
         },
         {
           "LocalizationKey": "CustomProjectDevelopment",
           "Reference": "Custom Project Development",
-          "Target": ""
+          "Target": "توسعه سفارشی پروژه"
         },
         {
           "LocalizationKey": "CustomProjectDevelopmentExplanation",
           "Reference": "Dedicated developers for your custom projects.",
-          "Target": ""
+          "Target": "توسعه‌دهندگان اختصاصی برای پروژه‌های سفارشی شما."
         },
         {
           "LocalizationKey": "PortingExistingProjects",
           "Reference": "Porting Existing Projects",
-          "Target": ""
+          "Target": "پورت کردن پروژه‌های موجود"
         },
         {
           "LocalizationKey": "PortingExistingProjectsExplanation",
           "Reference": "Migrating your legacy projects to the ABP platform.",
-          "Target": ""
+          "Target": "مهاجرت دادن پروژه‌های قدیمی شما به پلتفرم ABP."
         },
         {
           "LocalizationKey": "LiveSupport",
           "Reference": "Live Support",
-          "Target": ""
+          "Target": "پشتیبانی زنده"
         },
         {
           "LocalizationKey": "LiveSupportExplanation",
           "Reference": "Live remote support option when you need it.",
-          "Target": ""
+          "Target": "گزینه پشتیبانی ریموت زمانی که به آن نیاز دارید."
         },
         {
           "LocalizationKey": "Training",
           "Reference": "Training",
-          "Target": ""
+          "Target": "آموزش"
         },
         {
           "LocalizationKey": "TrainingExplanation",
           "Reference": "Dedicated training for your developers.",
-          "Target": ""
+          "Target": "آموزش‌های اختصاصی برای توسعه‌دهندگان شما."
         },
         {
           "LocalizationKey": "OnBoarding",
           "Reference": "Onboarding",
-          "Target": ""
+          "Target": "آشناسازی"
         },
         {
           "LocalizationKey": "OnBoardingExplanation",
           "Reference": "Help to setup your development, CI & CD environments.",
-          "Target": ""
+          "Target": "کمک برای نصب محیط‌های توسعه و محیط‌های CI & CD"
         },
         {
           "LocalizationKey": "PrioritizedTechnicalSupport",
           "Reference": "Prioritized Technical Support",
-          "Target": ""
+          "Target": "اولیت دادن به پشتیبانی تکنیکی"
         },
         {
           "LocalizationKey": "PremiumSupportExplanation",
           "Reference": "Besides the great community support of the ABP framework, our support team answers technical questions and problems of the commercial users with high priority.",
-          "Target": ""
+          "Target": "علاوه بر پشتیبانی خوب فریمورک ABP، تیم پشتیبانی ما پرسش‌های کاربران تجاری را با اولویت بالا جواب می دهند."
         },
         {
           "LocalizationKey": "SeeTheSupportOptions",
           "Reference": "Check out the Support Options",
-          "Target": ""
+          "Target": "گزینه‌های پشتیبانی ما را بررسی کنید"
         },
         {
           "LocalizationKey": "Contact",
           "Reference": "Contact",
-          "Target": ""
+          "Target": "تماس"
         },
         {
           "LocalizationKey": "TellUsWhatYouNeed",
           "Reference": "Tell us what you need.",
-          "Target": ""
+          "Target": "به ما بگوئید چه چیزی نیاز دارید."
         },
         {
           "LocalizationKey": "YourMessage",
           "Reference": "Your Message",
-          "Target": ""
+          "Target": "پیام شما"
         },
         {
           "LocalizationKey": "YourFullName",
           "Reference": "Your full name",
-          "Target": ""
+          "Target": "نام کامل شما"
         },
         {
           "LocalizationKey": "EmailField",
           "Reference": "E-mail Address",
-          "Target": ""
+          "Target": "نشانی ایمیل"
         },
         {
           "LocalizationKey": "YourEmailAddress",
           "Reference": "Your e-mail address",
-          "Target": ""
+          "Target": "نشانی ایمیل شما"
         },
         {
           "LocalizationKey": "HowMayWeHelpYou",
           "Reference": "How may we help you?",
-          "Target": ""
+          "Target": "چکار می توانیم برای شما انجام دهیم؟"
         },
         {
           "LocalizationKey": "SendMessage",
           "Reference": "Send Message",
-          "Target": ""
+          "Target": "فرستادن پیام"
         },
         {
           "LocalizationKey": "Success",
           "Reference": "Success",
-          "Target": ""
+          "Target": "موفقیت"
         },
         {
           "LocalizationKey": "WeWillReplyYou",
           "Reference": "We received your message and will be in touch shortly.",
-          "Target": ""
+          "Target": "ما پیام شما را دریافت کرده‌ایم و به زودی با شما تماس می گیریم."
         },
         {
           "LocalizationKey": "GoHome",
           "Reference": "Go Home",
-          "Target": ""
+          "Target": "به خانه برو"
         },
         {
           "LocalizationKey": "CreateLiveDemo",
           "Reference": "Create Live Demo",
-          "Target": ""
+          "Target": "ساخت یک دمو رایگان"
         },
         {
           "LocalizationKey": "RegisterToTheNewsletter",
           "Reference": "Register for the newsletter to receive information regarding ABP.IO, including new releases etc.",
-          "Target": ""
+          "Target": "در خبرنامه ثبت نام کنید تا اخبار ABP.IO از جمله اطلاعاتی در مورد انتشار نسخه های جدید و سایر موارد را دریافت کنید."
         },
         {
           "LocalizationKey": "EnterYourEmailOrLogin",
           "Reference": "Enter your e-mail address to create your demo or <a href=\"{0}\">Login</a> using your existing account.",
-          "Target": ""
+          "Target": "نشانی ایمیل خود را وارد کنید تا دمو شما ساخته شود یا به حساب موجود خود <a href=\"{0}\">ورود</a> کنید."
         },
         {
           "LocalizationKey": "ApplicationTemplate",
           "Reference": "Application Template",
-          "Target": ""
+          "Target": "قالب برنامه"
         },
         {
           "LocalizationKey": "ApplicationTemplateExplanation",
           "Reference": "Application startup template is used to create a new web application.",
-          "Target": ""
+          "Target": "قالب شروع برنامه برای ساخت برنامه تحت وب ( وب اپلیکیشن ) استفاده می شود."
         },
         {
           "LocalizationKey": "EfCoreProvider",
           "Reference": "Entity Framework (Supports SQL Server, MySQL, PostgreSQL, Oracle <a href=\"https://docs.microsoft.com/en-us/ef/core/providers/\">and others</a>)",
-          "Target": ""
+          "Target": "Entity Framework (پشتیبانی از SQL Server, MySQL, PostgreSQL, Oracle <a href=\"https://docs.microsoft.com/en-us/ef/core/providers/\">و سایر موارد</a>)"
         },
         {
           "LocalizationKey": "AlreadyIncludedInTemplateModules",
           "Reference": "Following modules are already included and configured in this template:",
-          "Target": ""
+          "Target": "این ماژول‌ها از قبل درون این قالب افزوده و پیکربنده شده‌اند:"
         },
         {
           "LocalizationKey": "ApplicationTemplateArchitecture",
           "Reference": "This application template also supports tiered architecture where the UI layer, API layer and authentication service are physically separated.",
-          "Target": ""
+          "Target": "این قالب برنامه همچنین از معماری لایه‌بندی شده در حالتی که لایه‌های UI ، لایه‌ی API و سرویس تائید هویت ( Authentication Service ) به صورت فیزیکی از هم جدا شده باشند ، پشتیبانی می کند"
         },
         {
           "LocalizationKey": "SeeTheGuideOrGoToTheLiveDemo",
           "Reference": "Check out the developer guide for technical information about this template or go to the live demo.",
-          "Target": ""
+          "Target": "راهنمای توسعه‌دهنده را برای دریافت اطلاعات  فنی در مورد این قالب بررسی کنید یا به دمو زنده این قالب بروید"
         },
         {
           "LocalizationKey": "DeveloperGuide",
           "Reference": "Developer Guide",
-          "Target": ""
+          "Target": "راهنما توسعه‌دهنده"
         },
         {
           "LocalizationKey": "ModuleTemplate",
           "Reference": "Module Template",
-          "Target": ""
+          "Target": "Module Template"
         },
         {
           "LocalizationKey": "ModuleTemplateExplanation1",
           "Reference": "You want to create a module and reuse across different applications? This startup template prepares everything to start to create a reusable <strong>application module</strong> or a <strong>microservice</strong>.",
-          "Target": ""
+          "Target": "می خواهید یک ماژول بسازید و از آن درون سایر برنامه‌ها استفاده کنید؟ این الگوی استارتاپ همه چیز را برای شروع ساخت <strong>application module</strong>  یا  <strong>microservice</strong>استفاده کنید."
         },
         {
           "LocalizationKey": "ModuleTemplateExplanation2",
@@ -3318,17 +3318,17 @@
         {
           "LocalizationKey": "WithAllStyleOptions",
           "Reference": "with all style options",
-          "Target": ""
+          "Target": "با تمام گزینه‌های استایل"
         },
         {
           "LocalizationKey": "Demo",
           "Reference": "Demo",
-          "Target": ""
+          "Target": "دمو"
         },
         {
           "LocalizationKey": "SeeAllModules",
           "Reference": "See All Modules",
-          "Target": ""
+          "Target": "دیدن همه ماژول‌ها"
         },
         {
           "LocalizationKey": "ABPCLIExplanation",
