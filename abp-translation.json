@@ -157,7 +157,7 @@
         },
         {
           "LocalizationKey": "Permission:Accounting",
-          "Reference": "Accounting",
+          "Reference": "Accounting",33
           "Target": "حسابداری"
         },
         {
@@ -3333,92 +3333,92 @@
         {
           "LocalizationKey": "ABPCLIExplanation",
           "Reference": "ABP CLI (Command Line Interface) is a command line tool to perform some common operations for ABP based solutions.",
-          "Target": ""
+          "Target": "ABP CLI ( رابط خط فرمان )  ابزاری است که بعضی از عملیات‌های معمول برای پروژه های بر پایه ی ABP را انجام می دهد."
         },
         {
           "LocalizationKey": "ABPSuiteEasilyCURD",
           "Reference": "ABP Suite is a tool which allows you to easily create CRUD pages",
-          "Target": ""
+          "Target": "ABP Suit ابزاری است که قابلیت ساخت آسان صفحات CRUD را می دهد."
         },
         {
           "LocalizationKey": "WeAreHereToHelp",
           "Reference": "We are Here to <span class=\"zero-text\">Help</span>",
-          "Target": ""
+          "Target": "ما برای <span class=\"zero-text\">کمک</span>اینجا هستیم."
         },
         {
           "LocalizationKey": "BrowseOrAskQuestion",
           "Reference": "You can browse our help topics or search in the frequently asked questions, or you can ask us a question by using the <a href=\"{0}\" class=\"text-success\">contact form</a>.",
-          "Target": ""
+          "Target": "شما می توانید تاپیک‌های مربوط به کمک کردن ما را ببینید یا درون قسمت سوالات متداول جستج کنید، یا می توانید با استفاده از  <a href=\"{0}\" class=\"text-success\">فرم تماس</a> سوال خود را بپرسید. "
         },
         {
           "LocalizationKey": "SearchQuestionPlaceholder",
           "Reference": "Search in frequently asked questions",
-          "Target": ""
+          "Target": "جستجو در سوالات متداول"
         },
         {
           "LocalizationKey": "WhatIsTheABPCommercial",
           "Reference": "What is ABP Commercial?",
-          "Target": ""
+          "Target": "ABP تجاری چیست؟"
         },
         {
           "LocalizationKey": "WhatAreDifferencesThanAbpFramework",
           "Reference": "What are the differences between the open source ABP Framework and ABP Commercial?",
-          "Target": ""
+          "Target": "چه فرقی بیین فریمورک متن باز ABP با نسخه ی تجاری آن وجود دارد؟"
         },
         {
           "LocalizationKey": "ABPCommercialExplanation",
           "Reference": "ABP Commercial is a set of premium modules, tools, themes and services that are built on top of the open source <a target=\"_blank\" href=\"{0}\">ABP framework</a>. ABP Commercial is being developed and supported by the same team behind the ABP framework.",
-          "Target": ""
+          "Target": "ABP Commercial  مجموعه ای ماژول‌های پرمیوم، ابزارها، قالب ها و سرویس‌هایی است که بر اساس فریمورک منبع باز <a target=\"_blank\" href=\"{0}\">ABP </a> ساخته شده‌اند. ABP Commercial توسط همان تیمی که فریمورک ABP را ساخته است توسعه و پشتیبانی می شود."
         },
         {
           "LocalizationKey": "WhatAreDifferencesThanABPFrameworkExplanation",
           "Reference": "<p> <a target=\"_blank\" href=\"{0}\">ABP framework</a> is a modular, themeable, micro-service compatible application development framework for ASP.NET Core. It provides a complete architecture and a strong infrastructure to let you focus on your own business code rather than repeating yourself for every new project. It is based on the best practices of software development and popular tools you already know.  </p> <p> ABP framework is completely free, open source and community-driven. It also provides a free theme and some pre-built modules (e.g. identity management and tenant management).</p>",
-          "Target": ""
+          "Target": "<p> <a target=\"_blank\" href=\"{0}\">ABP</a> فریمورکی ماژولار، قالب‌پذیر، سازگار با معماری میکروسرویس است که برای کار با ASP.NET CORE به کار می رود. این فریمورک ، معماری کامل و زیرساختی قوی ارائه می دهد که با آن شما می توانید بر روی توسعه کدهای تجاری خود تمرکز کنید، به جای اینکه در هر پروژه جدید مشغول زدن کدهای زیرساختی تکراری شوید. این فریمورک بر پایه بهترین رویکردها و ابزارهایی که می شناسید توسعه داده شده است.</p> <p>فریمورک ABP کاملا رایگان، منبع باز است و توسطع اعضای انجمن آن توسعه داده می شود.علاوه بر این، قالب رایگان و بعضی ماژول‌های از پیش ساخته دارد (مانند identity management و tenant mangement).</p>"
         },
         {
           "LocalizationKey": "VisitTheFrameworkVSCommercialDocument",
           "Reference": "Visit the following link for more information <a href=\"{0}\" target=\"_blank\"> {1} </a>",
-          "Target": ""
+          "Target": "این لینک‌ها رابر اطلاعات بیشتر دنبال کنید <a href=\"{0}\" target=\"_blank\"> {1} </a>"
         },
         {
           "LocalizationKey": "ABPCommercialFollowingBenefits",
           "Reference": "ABP Commercial adds the following benefits on top of the ABP framework:",
-          "Target": ""
+          "Target": "ABP Commercial ویژگی‌های زیر را به فریمورک ABP اضافه می کند:"
         },
         {
           "LocalizationKey": "Professional",
           "Reference": "Professional",
-          "Target": ""
+          "Target": "حرفه‌ای"
         },
         {
           "LocalizationKey": "UIThemes",
           "Reference": "UI Themes",
-          "Target": ""
+          "Target": "فالب‌های رابط کاربر"
         },
         {
           "LocalizationKey": "EnterpriseModules",
           "Reference": "Enterprise ready, feature rich, pre-built <a href=\"{0}\">Application Modules</a> (e.g. Identity Server management, SaaS management, language management)",
-          "Target": ""
+          "Target": "آماده برای استفاده در پروژه‌های تجاری، دارای ویژگی‌های فراوان، <a href=\"{0}\">ماژول‌های برنامه</a>از پیش ساخته شده ( مانند Identity Server management, SaaS management, language management )"
         },
         {
           "LocalizationKey": "ToolingToSupport",
           "Reference": "Tooling to support your development productivity (e.g. <a href=\"{0}\">ABP Suite</a>)",
-          "Target": ""
+          "Target": "ابزاری برای کمک به نرخ توسعه شما ( مانند <a href=\"{0}\">ABP Suite</a> ) "
         },
         {
           "LocalizationKey": "PremiumSupportLink",
           "Reference": "Premium <a href=\"{0}\" target=\"_blank\">Support</a>",
-          "Target": ""
+          "Target": "<a href=\"{0}\" target=\"_blank\">پشتیبانی</a> ممتاز"
         },
         {
           "LocalizationKey": "WhatDoIDownloadABPCommercial",
           "Reference": "What do I download when I purchase the ABP Commercial?",
-          "Target": ""
+          "Target": "زمانی که ABP Commercial را می خرم، چه چیزی دانلود می کنم؟"
         },
         {
           "LocalizationKey": "CreateUnlimitedSolutions",
           "Reference": "Once you purchase an ABP Commercial license, you will be able to create unlimited solutions like described in the <a href=\"{0}\">Getting Started</a> document.",
-          "Target": ""
+          "Target": "وقتی لایسنس ABP Commercial را خریدید، می توانید تعداد بی نهایت پروژه همانگونه که در مستند <a href=\"{0}\"> شروع کنید </a> توضیح داده شده است."
         },
         {
           "LocalizationKey": "ABPCommercialSolutionExplanation",
