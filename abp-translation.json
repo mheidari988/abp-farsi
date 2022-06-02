@@ -3423,107 +3423,108 @@
         {
           "LocalizationKey": "ABPCommercialSolutionExplanation",
           "Reference": "When you create a new application, you get a Visual Studio solution (a startup template) based on your preferences. The downloaded solution has commercial modules and themes already installed and configured for you. You can remove a pre-installed module or add another module if you like. All modules and themes use NuGet/NPM packages by default.",
-          "Target": ""
+          "Target": "وقتی یک برنامه جدید می سازید، بر اساس ترجیحاتتان یک سولوشن Visual Studio ( یک قالب شروع )  می گیرید. سولوشن دانلود شده ،فالب ها و ماژول‌های تجاری را از پیش یرای شما نصب و پیکربندی کرده است.  شما می توانید ماژول‌های از پیش نصب شده را حذف کنید یا ماژول جدید اضابر اساس نیاز خودماژول جدید نصب کنید. تمام ماژول های و قالب ها از پکیج های Nuget/MPM به صورت پیش فرض استفاده می کنند."
         },
         {
           "LocalizationKey": "StartDevelopWithTutorials",
           "Reference": "The downloaded solution is well architected and documented. You can start developing your own business code based on it following the <a href=\"{0}\">tutorials</a>.",
-          "Target": ""
+          "Target": "سولوشن دانلود شده دارای معماری و متسندات خوبی است. می توانید شروع به توسعه کتدهای بیزینیسی خود بر اساس این  <a href=\"{0}\">آموزش‌ها</a> کنید."
         },
         {
           "LocalizationKey": "TryTheCommercialDemo",
           "Reference": "You can try the <a href=\"{0}\">Live Demo</a> to see a sample application created using the ABP Commercial startup template.",
-          "Target": ""
+          "Target": "می توانید دمو زنده را امتحات کنید تا نحوه کار یک نمونه ساخته شده بر اساس قالب ABP Commercial را ببینید. "
         },
         {
           "LocalizationKey": "HowManyProducts",
           "Reference": "How many different products/solutions can I build using the ABP Commercial?",
-          "Target": ""
+          "Target": "چه تعداد محصول مختلف می تواند با ABP Commercial بسازم؟"
         },
         {
           "LocalizationKey": "HowManyProductsExplanation",
           "Reference": "You can create as many projects as you want during your active license period, there is no limit! After your license expires, you cannot create new projects, but you can continue to develop the projects you have downloaded and deploy them to an unlimited count of servers.",
-          "Target": ""
+          "Target": "شما تا دوره فعال بودن لایسنسی که دارید ، می توانید هر چقدر پروژه خواستید بسازید، محدودیت وجود ندارد! پس از منقضی شدن لایسنس دیگر امکان ساخت پروژه جدید ندارید، ولی می توانید به توسعه پروژه‌های دانلود شد و پابلیش آنها به هر تعداد سرروری که خمی خواهید ادامه دهید."
         },
         {
           "LocalizationKey": "HowManyDevelopers",
           "Reference": "How many developers can work on the ABP Commercial?",
-          "Target": ""
+          "Target": "چه تعداد توسعه‌دهنده می توانند بر روی  ABP Commercial کار کنند؟"
         },
         {
           "LocalizationKey": "HowManyDevelopersExplanation",
           "Reference": "ABP Commercial licenses are per developer. Different license types have different developer limits. However, you can add more developers to any license type whenever you need. Check out the <a href=\"{0}\">Plans & Pricing</a> page for license types, developer limits and additional developer costs.",
-          "Target": ""
+          "Target": "لایسنس های  ABP Cmmercial بر ازای هر توسعه دهنده هستند. انواع مختلف لایسنس ها محدودیت های مختلفی بر تعداد توسعه‌دهنده ها دارند. هر چند که بر اساس نیازتان هر تعداد توسعه دهنده که خواستید می توانید انید به هر نوع لایسنس اضافه کنید. به صفحه ی <a href=\"{0}\">طرح ها و قیمت گذاری ها</a>برای دیدن قیمت محصولات و محدودیت تعداد توسعه‌دهنده‌ها مراجعه کنید."
         },
         {
           "LocalizationKey": "ChangingLicenseType",
           "Reference": "Can I upgrade my license type later?",
-          "Target": ""
+          "Target": "آیا بعدا می توانم نوع لایسنس خودم را آپگرید کنم؟"
         },
         {
           "LocalizationKey": "ChangingLicenseTypeExplanation",
           "Reference": "You can upgrade to a higher license by paying the difference within your active license period. When you upgrade to a higher license plan, you get the benefits of the new plan, but the license upgrade does not change the license expiry date. Besides, you can also add new developer seats to your existing license, check out the \"How many developers can work on the ABP Commercial?\" FAQ.",
-          "Target": ""
+          "Target": "شما می توانید لایسنس خود را در دوره فعال بودن آن با پرداخت اختلاف قیمت ارتقاء دهید. با ارتقاء لایسنس از ویژگی های جدید بهره مند می شوید ولی تاریخ انقضاء لایسنس شما تغییر نمی کند. علاوه بر این ، می توانید توسعه دهنده‌های بیشتری به لایسنس فعلی خود اضافه کنید. برای آگاهی بیشتر در بخش پرسش‌های متداول می توانید به قسمت \" چه تعداد توسعه دهنده می توانند بر روی ABP Commercial کار کنند \"مراجع کنید."
         },
         {
           "LocalizationKey": "LicenseExtendUpgradeDiff",
           "Reference": "What is the difference between license extend and upgrade?",
-          "Target": ""
+          "Target": "چه تفاوتی بین تمدید لایسنس و آپگرید آن وجود دارد؟ "
         },
         {
           "LocalizationKey": "LicenseExtendUpgradeDiffExplanation",
           "Reference": "<strong>Extending:</strong> By extending/renewing your license, you will continue to get premium support and get major updates for the modules and themes. Besides, you will be able to continue creating new projects. And you will still be able to use ABP Suite which speeds up your development. When you extend your license, 1 year is added to your license expiry date. <hr/><strong>Upgrading:</strong> By upgrading your license, you will promote to a higher license plan which will allow you to get additional benefits. Check out the <a href=\"/pricing\">license comparison table</a> to see the differences between the license plans. <strong>On the other hand, when you upgrade, your license expiry date will not change!</strong> To extend your license end date, you need to extend your license.",
-          "Target": ""
+          "Target": "<strong>تمدید کردن:</strong>با تمدید کردن/تازه کردن لایسنس ، می توانید به گرفتن پشتیبانی ممتاز و گرفتن آپدیت های اصلی برای ماژول ها و قالب ها ادامه دهید. به علاوه ، می توانید پروژه های جدید بسازید. و می توانید از ABP Suiteاستفاده کنید که سرعت توسعه شما را بیشتر می کنید. وقتی لایسنس خود را تمدید می کنید،  یک سال به زمان انقضاء لایسنس شما اضافه می شود.<hr/><hr/><strong>آپگرید کردن:</strong>با آپگرید کردن لایسنس خود،  شما به لایسنس بالاتری ارتقاء داده می شوید که به شما اجازه گرفتن مزایا بیشتری می دهد.به a href=\"/pricing\">جدول مقایسه لایسنس ها</a> مراجعه کنید تا تفاوت بین لایسنس ها را ببینید.strong>ولی از آن سو ، با آپگرید کردن لایسنس، تاریخ انقضاء لایسنس شما تغییر نمی کند !</strong>برای تمدید کردن لایسنس خود ، نیاز دارید  که از بخش تمدید لایسنس اقدام کنید."
         },
         {
           "LocalizationKey": "LicenseRenewalCost",
           "Reference": "What is the license renewal cost after 1 year?",
-          "Target": ""
+          "Target": "هزینه تازه‌سازی / تمدید لایسنس بعد از 1 سال چقدر است؟"
         },
         {
           "LocalizationKey": "LicenseRenewalCostExplanation",
           "Reference": "The renewal (extend) price of the standard Team License is ${0}, standard Business License is ${1} and standard Enterprise License is ${2}. If you are already a customer, <a href='{3}' target='_blank'>log into your account</a> to review the current renewal pricing.",
-          "Target": ""
+          "Target": "هزینه تازه‌سازی ( تمدید) لایسنس استاندارد Team {0} دلار ، لایسنس استاندارد Bussiness {1} دلار و لایسنس  استاندارد Enterprise {1}  دلار است.اگر مشتری ما هستید، <a href='{3}' target='_blank'>وارد حساب کاربری</a> خود شوید تا هزینه ی تازه‌سازی تمدید را ببنید."
         },
         {
           "LocalizationKey": "HowDoIRenewMyLicense",
           "Reference": "How do I renew my license?",
-          "Target": ""
+          "Target": "چطور لایسنس‌های خود را تمدید کنم؟"
         },
         {
           "LocalizationKey": "HowDoIRenewMyLicenseExplanation",
           "Reference": "You can renew your license by navigating to the <a href='{0}' target='_blank'>organization management page</a>. In order to take advantage of our discounted Early Renewal rates, make sure you renew before your license expires. Don't worry about not knowing when your Early Renewal opportunity closes, you'll however receive 3 reminder e-mails before your subscription expires. We'll send them 30 days, 7 days and 1 day before expiration.",
-          "Target": ""
+          "Target": "برای تمدید لایسنس خود می توانید به <a href='{0}' target='_blank'>صفحه مدیریت سازمان</a> بروید. برای اینکه از تخفیفات ما بهره مند شوید، قبل از پایان لایسنس خود نسبت به تمدید آن اقدام کنید. نگران ندانستن تاریخ پایان تخفیفات تمدید نباشید، شما 3 ایمیل یادآوری قبل از پایان یافتن اشتراکتان  دریافت می کنید. ما این ایمیل ها را 30 روز قبل ، 7 روز قبل و 1 روز قبل از پایان تاریخ لایسنس برای شما می فرستیم."
         },
         {
           "LocalizationKey": "IsSourceCodeIncluded",
           "Reference": "Does my license include the source code of the commercial modules and themes?",
-          "Target": ""
+          "Target": "آیا لایسنس من شامل کدهای منبع ماژول‌ها و قالب‌های تجاری می شود؟"
         },
         {
           "LocalizationKey": "IsSourceCodeIncludedExplanation1",
           "Reference": "Depends on the license type you've purchased:",
-          "Target": ""
+          "Target": "بر اساس نوع لایسنسی که خریداری کرده‌اید:"
         },
         {
           "LocalizationKey": "IsSourceCodeIncludedExplanation2",
           "Reference": "<strong>Team</strong>: Your solution uses the modules and themes as NuGet and NPM packages. It doesn't include their source code. In this way, you can easily upgrade these modules and themes whenever a new version is available. However, you can not get the source code of these modules and themes.",
-          "Target": ""
+          "Target": "<strong>Team</strong>:سولوشن شما از ماژول ها و قالب ها به عنوان پکیج‌های Nuget و MPM استفاده می کند.شامل کد‌منبع آنها نمی شود.در این روش ، شما هر زمانی که خواستید می توانید ماژول ها و قالب ها را هر زمانی که نسخه ی جدید آنها در دسترس بود ، آپگرید کنید.ولی ، نمی توانید کد منبع این ماژول‌ها و قالب‌ها را داشته باشید"
         },
         {
           "LocalizationKey": "IsSourceCodeIncludedExplanation3",
           "Reference": "<strong>Business/Enterprise</strong>: In addition to the Team license, you are able to download the source code of any module or theme you need. You can even remove the NuGet/NPM package references for a particular module and add its source code directly to your solution to fully change it.",
-          "Target": ""
+          "Target": "<strong>Business/Enterprise</strong>:علاوه بر لایسنس Team، می توانید منبع هر کدام از ماژول یا قالبی که می خواهید را دانلود کنید. حتی می تواید رفرنس پکیج NuGet/NPM را برای یک ماژول خاص را حذف کنید و کد منبع آن را مستقیما به سولوشن خود اضافه کنید تا بتوانید آن را کاملا تغییر دهید."
         },
         {
           "LocalizationKey": "IsSourceCodeIncludedExplanation4",
           "Reference": "<p>Including the source code of a module to your solution gives you the maximum freedom to customize that module. However, it will then not be possible to automatically upgrade the module when a new version is released.</p><p>None of the licenses include the ABP Suite source code, which is an external tool that generates code for you and assists your development.</p><p>Check out the <a href=\"{0}\">Plans & Pricing</a> page for other differences between the license types.</p>",
-          "Target": ""
+          "Target": "<p>اضافه کردن کد‌منبع یک ماژول به شما نهایت آزادی برای سفارشی کردن ماژول می دهد. ولی ، دیگر امکان آپگرید خودکار یک ماژول در هنگان انتشار نسخه جدید آن وجود نخواهد داشت.</p><p>هیچ کدام از لایسنس ها شامل کد منبع ایکس ، که ابزاری خارجی تولید کد برای کمک به توسعه شما است، نیستند.</p><p>به صفحه ی <a href=\"{0}\">طرح ها و قیمت گذاری ها</a>برای دیدن قیمت محصولات و محدودیت تعداد توسعه‌دهنده‌ها مراجعه کنید."
+          "</p>\"",
         },
         {
           "LocalizationKey": "ChangingDevelopers",
           "Reference": "Can I change the registered developers of my organization in the future?",
-          "Target": ""
+          "Target": "آیا می تواند توسعه دهنده‌های ثبت نام شده سازمان خودم را بعدا در آینده تغییر دهم؟"
         },
         {
           "LocalizationKey": "ChangingDevelopersExplanation",
