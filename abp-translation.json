@@ -3518,8 +3518,7 @@
         {
           "LocalizationKey": "IsSourceCodeIncludedExplanation4",
           "Reference": "<p>Including the source code of a module to your solution gives you the maximum freedom to customize that module. However, it will then not be possible to automatically upgrade the module when a new version is released.</p><p>None of the licenses include the ABP Suite source code, which is an external tool that generates code for you and assists your development.</p><p>Check out the <a href=\"{0}\">Plans & Pricing</a> page for other differences between the license types.</p>",
-          "Target": "<p>اضافه کردن کد‌منبع یک ماژول به شما نهایت آزادی برای سفارشی کردن ماژول می دهد. ولی ، دیگر امکان آپگرید خودکار یک ماژول در هنگان انتشار نسخه جدید آن وجود نخواهد داشت.</p><p>هیچ کدام از لایسنس ها شامل کد منبع ایکس ، که ابزاری خارجی تولید کد برای کمک به توسعه شما است، نیستند.</p><p>به صفحه ی <a href=\"{0}\">طرح ها و قیمت گذاری ها</a>برای دیدن قیمت محصولات و محدودیت تعداد توسعه‌دهنده‌ها مراجعه کنید."
-          "</p>\"",
+          "Target": "<p>اضافه کردن کد‌منبع یک ماژول به شما نهایت آزادی برای سفارشی کردن ماژول می دهد. ولی ، دیگر امکان آپگرید خودکار یک ماژول در هنگان انتشار نسخه جدید آن وجود نخواهد داشت.</p><p>هیچ کدام از لایسنس ها شامل کد منبع ایکس ، که ابزاری خارجی تولید کد برای کمک به توسعه شما است، نیستند.</p><p>به صفحه ی <a href=\"{0}\">طرح ها و قیمت گذاری ها</a>برای دیدن قیمت محصولات و محدودیت تعداد توسعه‌دهنده‌ها مراجعه کنید.</p>\""
         },
         {
           "LocalizationKey": "ChangingDevelopers",
