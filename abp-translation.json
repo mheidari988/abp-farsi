@@ -3593,57 +3593,57 @@
         {
           "LocalizationKey": "DoYouAcceptBankWireTransfer",
           "Reference": "Do you accept bank wire transfers?",
-          "Target": "آیا انتقال الکترونیکی وجوه را می پذیرید؟"
+          "Target": "آیا انتقال الکترونیکی وجوه بانکی را می پذیرید؟"
         },
         {
           "LocalizationKey": "DoYouAcceptBankWireTransferExplanation",
           "Reference": "Yes, we accept bank wire transfers.<br />After sending the license fee via bank transfer, email us your receipt and the type of license requested at accounting@abp.io, here's our international bank account information:",
-          "Target": ""
+          "Target": "بعله، ما انتقال وجه الکترونیکی بانکی را قبول می کنیم.  پس از ارسال هزینه لایسنس  از طریق بانک، رسید بانک و نوع لایسنسی که می خواهید را به نشانی accounting@abp.io ارسال کنید ، اطلاعات حساب بانکی بین المللی ما:"
         },
         {
           "LocalizationKey": "HowToUpgrade",
           "Reference": "How to upgrade existing applications when a new version is available?",
-          "Target": ""
+          "Target": "چطور برنامه های موجود را آپگرید کنیم وقتی نسخه جدید منتشر شد؟"
         },
         {
           "LocalizationKey": "HowToUpgradeExplanation1",
           "Reference": "When you create a new application using ABP Commercial, all the modules and theme are used as NuGet and NPM packages. So, you can easily upgrade the packages when a new version is available.",
-          "Target": ""
+          "Target": "وقتی یک برنامه جدید با ABP Commercial می سازید، تمامی ماژول ها  و قالب به عنوان پکیج های NuGet و NPM هستند. بنابراین می توانید به راحتی آنها را در هنگام نسخه جدید ، آپگرید کنید."
         },
         {
           "LocalizationKey": "HowToUpgradeExplanation2",
           "Reference": "In addition to the standard NuGet/NPM upgrades, <a href=\"{0}\">ABP CLI</a> provides an update command that automatically finds and upgrades all ABP related packages in your solution.",
-          "Target": ""
+          "Target": "علاوه بر آپگرید استاندارد NPM/NuGet ، ابزار <a href=\"{0}\">ABP CLI</a> حاوی دستور update است که به صورت خوردکار تمامی پکیج های مربوط به ABP را در سولوشن شما ، به روزرسانی می کند."
         },
         {
           "LocalizationKey": "DatabaseSupport",
           "Reference": "Which database systems are supported?",
-          "Target": ""
+          "Target": "کدام سیستم های دیتابیس پشتیبانی می شوند؟"
         },
         {
           "LocalizationKey": "DatabaseSupportExplanation",
           "Reference": "ABP Framework itself is database agnostic and can work with any database provider by its nature. Check out the <a href=\"{0}\" target=\"_blank\">Data Access document</a> for a list of currently implemented providers.",
-          "Target": ""
+          "Target": "خود ABP Framework وابسته به دیتابیس خاصی نست و می تواند به صورت طبیعی با هر ارائه دهنده دیتابیس کار کند. برای دیدن لیست دیتابیس هایی که فعلا پشتیبانی می شوند به <a href=\"{0}\" target=\"_blank\">مستندات دسترسی به داده</a> مراجعه کنید."
         },
         {
           "LocalizationKey": "UISupport",
           "Reference": "Which UI frameworks are supported?",
-          "Target": ""
+          "Target": "کدام یک از فریمورک‌های UI پشتیبانی می شوند؟"
         },
         {
           "LocalizationKey": "Supported",
           "Reference": "Supported",
-          "Target": ""
+          "Target": "پشتیبانی شده"
         },
         {
           "LocalizationKey": "UISupportExplanation",
           "Reference": "ABP Framework itself is UI framework agnostic and can work with any UI framework. However, startup templates, module UIs and themes were not implemented for all UI frameworks. Check out the <a href=\"{0}\">Getting Started document</a> for the up-to-date list of UI options.",
-          "Target": ""
+          "Target": "خود ABP Framework وابسته به فریمورک UI خاصی نیست. هر چند که الگوهای پیش فرض ، ماژول‌های ایکس و قالب ها برای تمامی فریمورک های UI پیاده سازی نشده اند. به <a href=\"{0}\">مستندات شروع  به کار</a> مراجعه کنید تا  گزینه ها در دسترس را ببینید"
         },
         {
           "LocalizationKey": "MicroserviceSupport",
           "Reference": "Does it support the micro-service architecture?",
-          "Target": ""
+          "Target": "آیا از معماری میکرو-سرویس پشتیبانی می کند؟"
         },
         {
           "LocalizationKey": "MicroserviceSupportExplanation1",
